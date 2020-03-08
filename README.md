@@ -1,2 +1,1 @@
-# iris-data-analysis
-Exploratory data analysis on Iris Dataset
+# R project for Statistics and Probabalities 2019-2020 course at FMI, Sofia University
